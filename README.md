@@ -110,7 +110,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/jdrodriguez-portfolio/Hands-on-ML.git
+   git clone https://github.com/rod08018/Hands-on-ML.git
    ```
 2. run jupyter notebook
    ```
@@ -125,10 +125,31 @@ This is an example of how to list things you need to use the software and how to
 <!-- ROADMAP -->
 ## Roadmap
 
-- Simple Regressions with ensemble models
-- Simple Classifications
-- [] Feature 3
-    - [] Nested Feature
+- Simple Regression
+- Binary Classification
+- Multiclass Classification
+- Linear Regression
+- Gradient Descent
+- Non-Linear Regression
+- Learning Curves
+- Regularized Linear Models
+  - Ridge
+  - Lasso
+  - Elastic Net
+  - Early Stopping
+- Logistic Regression
+- Support Vector Machines
+- Decision Trees
+- Ensemble Learning and Random Forests
+- Dimensionality Reduction
+  - PCA
+  - Kernel PCA
+- Unsupervised Learning Techniques
+- Neural Networks and Deep Learning with Keras
+- RNN and CNNs
+- NLP with RNNs and Attention
+- Representation Learning and Generative Learning using Autoencoders and GANs
+- Reinforcement Learning
 
 See the [open issues](https://github.com/jdrodriguez-portfolio/Hands-on-ML/issues) for a full list of proposed features (and known issues).
 
@@ -168,7 +189,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Jose Rodriguez - [Linkedin](https://www.linkedin.com/in/drodriguez1689/) 
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/jdrodriguez-portfolio/Hands-on-ML/)
+Project Link: [https://github.com/rod08018/Hands-on-ML](https://github.com/jdrodriguez-portfolio/Hands-on-ML/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
