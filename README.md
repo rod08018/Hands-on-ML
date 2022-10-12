@@ -103,10 +103,11 @@ I recommend creating a virtual environment using anaconda with all required depe
 This is an example of how to list things you need to use the software and how to install them.
 * environment generation
   ```
-  conda install -n your_environment_name python=3.8 numpy pandas scikit-learn tensorflow scipy 
+  conda install -n your_environment_name python=3.8
+  pip install requirements.txt
   ```
 
-### Installation
+### Usage
 
 1. Clone the repo
    ```sh
