@@ -1,2 +1,4 @@
-/datasets/
+.gitignore
+*datasets/
 /.ipynb_checkpoints/
+/Traditional ML/datasets/
