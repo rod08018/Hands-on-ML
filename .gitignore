@@ -4,3 +4,7 @@
 /Traditional ML/datasets/
 /kaggle.json
 /EDA/.env
+*pySpark/
+*PythonTraining/
+*Statistics/
+*EDA/

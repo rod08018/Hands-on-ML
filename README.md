@@ -104,6 +104,7 @@ This is an example of how to list things you need to use the software and how to
 * environment generation
   ```
   conda install -n your_environment_name python=3.8
+  conda activate your_environment_name
   pip install requirements.txt
   ```
 
